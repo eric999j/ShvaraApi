@@ -1,2 +1,0 @@
-# ShvaraApi
-Shvara's parole
